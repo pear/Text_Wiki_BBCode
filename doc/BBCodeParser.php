@@ -11,7 +11,7 @@
  * @author     Bertrand Gugger <bertrand@toggg.com>
  * @copyright  1997-2005 The PHP Group
  * @copyright  2005 bertrand Gugger
- * @license    http://www.php.net/license/3_0.txt  PHP License 3.0
+ * @license    http://www.gnu.org/copyleft/lesser.html  LGPL License 2.1
  * @version    CVS: $Id$
  * @link       http://pear.php.net/package/HTML_BBCodeParser
  * @see        Text_Wiki
